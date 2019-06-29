@@ -143,12 +143,12 @@ Image above shows the code for accessing the results prop that is parsed in from
 
 
 The image above shows the code used to gather the uses location when the page is loaded with this part of the code finding the user on the map and asking the user to allow or block the request which is the image below. 
-![](Images4ReadMe/Location%20Example.png)
+![](Images4ReadMe/Location%20example.png)
  
  ![](Images4ReadMe/Filter%20code.png)
 
 The image above shows the code that will control the filter options of the website and will update the results shown in the list. The image on the left is before the filter and the image on the right is after the filter,
- ![](Images4ReadMe/Filter%201%20code.png)                                                           ![](Images4ReadMe/Filter%201%20code.png)
+ ![](Images4ReadMe/Filter1code.png)                                                           ![](Images4ReadMe/Filter1code.png)
   
 
 
