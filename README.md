@@ -19,14 +19,10 @@ Real-Time Databases        6
 Design patterns        6
 
 Mapping and geolocation        6
-
-        8
-
+        
 Progressive web applications        9
 
 Unit testing        9
-
-        9
 
 Evaluation (unit testing)        9
 
@@ -36,7 +32,7 @@ Bibliography        10
 
 
 
--
+
 
 # Firebase Host Link- [https://autoura-4c10f.firebaseapp.com/](https://autoura-4c10f.firebaseapp.com/)
 
